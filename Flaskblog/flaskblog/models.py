@@ -2,6 +2,8 @@ from datetime import datetime
 from flaskblog import db
 
 
+# test comment
+
 class User(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     username = db.Column(db.String(20), unique=True, nullable=False)
