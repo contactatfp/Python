@@ -1,11 +1,12 @@
-# **Machine Learning Projects**
+# **Python Projects**
 
-This repository contains a collection of machine learning projects implemented in Python. The projects cover a range of topics, including image classification, customer satisfaction prediction, and cancer prediction.
+This repository contains a collection of machine learning projects implemented in Python. The projects cover a range of topics, including image classification, customer satisfaction prediction, and cancer prediction. In addition to the machine learning projects, this repository also contains a Flask application for deploying the machine learning models as a web service.
 
 **Project List**
 
 - Autoencoder for Fashion Images: This project uses an autoencoder to reconstruct fashion images.
 - Decision Tree for Customer Satisfaction Prediction: This project uses a decision tree to predict customer satisfaction.
+- Flask Application: This project contains a Flask application for deploying a blog as a web service.
 - GAN for Generating Fashion Images: This project uses a GAN to generate new fashion images.
 - Image Classifier for Flower Images: This project uses a convolutional neural network to classify flower images.
 - KNN Classifier From Scratch: This project implements the KNN algorithm from scratch and uses it to classify digits.
