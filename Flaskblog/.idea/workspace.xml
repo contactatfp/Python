@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d00b3f53-370a-4ec8-b8f7-aa979f66019e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CoPilot/coPilot/coPilot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask App/FirstApp/FirstApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flaskblog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture1/Lecture1/restaurantTableViewCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyzant/Wyzant.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyzant/Wyzant/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyzant/Wyzant/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyzant/Wyzant/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyzant/Wyzant/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyzant/Wyzant/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyzant/Wyzant/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyzant/Wyzant/Cats.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyzant/Wyzant/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyzant/Wyzant/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wyzant/Wyzant/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/OneSignalNotificationServiceExtension/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/OneSignalNotificationServiceExtension/NotificationService.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/Pods/OneSignalNotificationServiceExtension/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/Pods/OneSignalNotificationServiceExtension/NotificationService.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/30243544-1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/30243544-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/30243544-20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/30243544-20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/30243544-29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/30243544-29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/30243544-29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/30243544-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/30243544-40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/30243544-40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/30243544-60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/30243544-60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/30243544-76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/30243544-76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/30243544-83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon-1.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon.appiconset/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon.appiconset/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/AppIcon.appiconset/appstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/Dan-Leonard.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/Dan-Leonard.imageset/NiceSelfi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/JAIDEN.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/JAIDEN.imageset/JAIDEN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/LOGO.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/LOGO.imageset/LOGO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/LaunchLogo.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/LaunchLogo.imageset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/Nathan-Tannar.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/Nathan-Tannar.imageset/Nathan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/Sign in with google.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/Sign in with google.imageset/Sign in with google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/Steve-Jobs.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/Steve-Jobs.imageset/Steve-Jobs.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/Steven-Deutsch.imageset/7445580.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/Steven-Deutsch.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/Tim-Cook.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/Tim-Cook.imageset/Tim-Cook.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/Wu-Zhong.imageset/5061845.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/Wu-Zhong.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/btn_google_signin_light_focus_web.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/btn_google_signin_light_focus_web.imageset/btn_google_signin_light_focus_web@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/iTunesArtwork.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/iTunesArtwork.imageset/iTunesArtwork@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_appstore.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_appstore.imageset/icons8-apple_app_store_filled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_at.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_at.imageset/icons8-email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_camera.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_camera.imageset/icons8-camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_hashtag.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_hashtag.imageset/icons8-hashtag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_info.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_info.imageset/icons8-info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_keyboard.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_keyboard.imageset/icons8-keyboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_library.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_library.imageset/icons8-medium_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_like.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_like.imageset/icons8-like_it.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_map_marker.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_map_marker.imageset/icons8-map_pin-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_mic.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_mic.imageset/icons8-microphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_send.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_send.imageset/icons8-sent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_typing.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_typing.imageset/icons8-hand_with_pen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_up.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/ic_up.imageset/icons8-up_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/image_message_placeholder.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/image_message_placeholder.imageset/image_message_placeholder.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/img1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/img1.imageset/grey-crowned-crane-bird-crane-animal-45853.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/img2.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/img2.imageset/pexels-photo-145939.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/mklogo.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/mklogo.imageset/mklogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/mkorglogo.imageset/30243544.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/mkorglogo.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/person_flat.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/person_flat.imageset/person_flat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/pin.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/pin.imageset/pin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/pin.imageset/pin@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/pin.imageset/pin@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/purpleFullLogo.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/purpleFullLogo.imageset/purpleFullLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/schoolExample2.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/schoolExample2.imageset/schoolExample2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/schoolPhotoExample.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Assets.xcassets/schoolPhotoExample.imageset/schoolPhotoExample.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Extensions/AlertService.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Extensions/Settings+UserDefaults.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Extensions/UIColor+Extensions.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Extensions/UIViewController+Extensions.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Global/CodeForLater.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Global/Global.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Global/Keychain.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Messages/MessageCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Messages/MessageTableView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Models/MockMessage.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Models/MockSocket.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Models/MockUser.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Network/APIKeys.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Network/BubbleAPI.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Network/Endpoint.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Network/URLRequest.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/OLD/FeedModel.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/OLD/HorizontalCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/OLD/HorizontalViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/OLD/LoginView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/OLD/MyMessagesViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/OLD/PicTableViewCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/OLD/PicsTableViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/OLD/ResetViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/OLD/SignupViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Struct/ClassroomStruct.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Struct/ClassroomToTeacher.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Struct/File.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Struct/GetGuardian.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Struct/GetMedia.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Struct/GetMessageStruct.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Struct/GetMessageTestStruct.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Struct/GetStudent.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Struct/LoginStruct.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Struct/SchoolStruct.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/Struct/UserStruct.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/SubViews/ChildViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/SubViews/ForgotViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/SubViews/LoginController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/SubViews/SignupController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/SubViews/TeachersSubViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/TableCells/ChildCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/TableCells/FeedCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/TableCells/PastMessageCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/TableCells/TeacherCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/ViewControllers/AccountSetupViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/ViewControllers/AccountViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/ViewControllers/BasicChatController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/ViewControllers/ChatViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/ViewControllers/FeedMainViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/ViewControllers/FeedViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/ViewControllers/ForgotMainViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/ViewControllers/LoginMainViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/ViewControllers/MessagesController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/ViewControllers/NewPostViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/ViewControllers/SignupMainViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/ViewControllers/TestViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YardDuty/YardDuty/YardDuty.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/Network.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/messageStruct.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy.xcodeproj/xcuserdata/benstone.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy.xcodeproj/xcuserdata/benstone.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy.xcodeproj/xcuserdata/kylelouderback.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Assets.xcassets/AccentColor.colorset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Assets.xcassets/Breakfast.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Assets.xcassets/Breakfast.imageset/breakfastImage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Assets.xcassets/Dessert.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Assets.xcassets/Dessert.imageset/dessert.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Assets.xcassets/Dinner.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Assets.xcassets/Dinner.imageset/dinner.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Assets.xcassets/Lunch.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Assets.xcassets/Lunch.imageset/lunch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/CookcademyApp.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Models/Recipe.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Preview Content/Preview Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/ViewModels/AppColor.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/ViewModels/RecipeData.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Views/ExploreRecipes/RecipeCategoryGridView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Views/ExploreRecipes/RecipeDetailView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Views/ExploreRecipes/RecipesListView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Views/ModifyRecipes/ModifyComponentsView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Views/ModifyRecipes/ModifyDirectionView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Views/ModifyRecipes/ModifyIngredientView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Views/ModifyRecipes/ModifyMainInformationView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cookcademy-7-build-direction-view-with-generics/Cookcademy/Views/ModifyRecipes/ModifyRecipeView.swift" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JpwtyfmABGEhGGl9re7YD77QPn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Flaskblog" type="Python.FlaskServer">
+      <module name="Flaskblog" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d00b3f53-370a-4ec8-b8f7-aa979f66019e" name="Changes" comment="" />
+      <created>1672788552340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672788552340</updated>
+      <workItem from="1672788553462" duration="1170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
