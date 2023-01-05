@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d00b3f53-370a-4ec8-b8f7-aa979f66019e" name="Changes" comment="authentication. db. account page">
-      <change beforePath="$PROJECT_DIR$/flaskblog/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/about.html" afterDir="false" />
+    <list default="true" id="d00b3f53-370a-4ec8-b8f7-aa979f66019e" name="Changes" comment="added about, account, layout pages">
+      <change afterPath="$PROJECT_DIR$/flaskblog/static/profile_pics/default.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/account.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/kylelouderback/Desktop/Github/Python/Flaskblog/flaskblog/templates",
+    "last_opened_file_path": "/Users/kylelouderback/Desktop/Github/Python/Flaskblog/static",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
@@ -63,8 +67,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/flaskblog/templates" />
+      <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/flaskblog/static/profile_pics" />
+      <recent name="$PROJECT_DIR$/flaskblog/templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -98,7 +104,7 @@
       <workItem from="1672788553462" duration="1170000" />
       <workItem from="1672796099714" duration="598000" />
       <workItem from="1672801981782" duration="9320000" />
-      <workItem from="1672870707921" duration="2828000" />
+      <workItem from="1672870707921" duration="6376000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Comments to model.py">
       <created>1672802383659</created>
@@ -135,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672873408185</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added about, account, layout pages">
+      <created>1672873605130</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672873605130</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +171,8 @@
     <MESSAGE value="added app context in init" />
     <MESSAGE value="User Authentication and Hashed PW. Moved HTML location." />
     <MESSAGE value="authentication. db. account page" />
-    <option name="LAST_COMMIT_MESSAGE" value="authentication. db. account page" />
+    <MESSAGE value="added about, account, layout pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="added about, account, layout pages" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Flaskblog$Flaskblog.coverage" NAME="Flaskblog Coverage Results" MODIFIED="1672871765187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
