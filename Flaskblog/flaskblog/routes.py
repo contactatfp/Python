@@ -8,11 +8,11 @@ from flask_login import login_user, current_user, logout_user, login_required
 from PIL import Image
 
 
-
 @app.route("/")
 @app.route("/home")
 def home():
-    posts = Post.query.all()
+    page = request.args.get('page', 1, type=int)
+    posts = Post.query.order_by(Post.date_posted.desc()).paginate(per_page=5, page=page)
     return render_template('home.html', posts=posts)
 
 
@@ -102,11 +102,13 @@ def new_post():
         return redirect(url_for('home'))
     return render_template('create_post.html', title='New Post', form=form, legend='New Post')
 
+
 @app.route("/post/<int:post_id>")
 @login_required
 def post(post_id):
     post = Post.query.get_or_404(post_id)
     return render_template('post.html', title=post.title, post=post, legend='Post')
+
 
 @app.route("/post/<int:post_id>/update", methods=['GET', 'POST'])
 @login_required
@@ -125,6 +127,7 @@ def update_post(post_id):
         form.title.data = post.title
         form.content.data = post.content
     return render_template('create_post.html', title="Update Post", post=post, form=form, legend='Update Post')
+
 
 @app.route("/post/<int:post_id>/delete", methods=['POST'])
 @login_required
