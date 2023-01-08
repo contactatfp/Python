@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d00b3f53-370a-4ec8-b8f7-aa979f66019e" name="Changes" comment="UI fix: Justify right">
-      <change afterPath="$PROJECT_DIR$/flaskblog/templates/reset_request.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskblog/templates/reset_token.html" afterDir="false" />
+    <list default="true" id="d00b3f53-370a-4ec8-b8f7-aa979f66019e" name="Changes" comment="Password Reset with Token.&#10;Sensitive IDs using environment variables">
+      <change afterPath="$PROJECT_DIR$/flaskblog/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/main/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/posts/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/users/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flaskblog/users/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flaskblog/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flaskblog/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/routes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/layout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flaskblog/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/user_post.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/user_post.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +32,7 @@
       <list>
         <option value="Flask Main" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -110,7 +122,7 @@
       <workItem from="1672801981782" duration="9320000" />
       <workItem from="1672870707921" duration="10833000" />
       <workItem from="1672948005140" duration="449000" />
-      <workItem from="1672948461308" duration="17877000" />
+      <workItem from="1672948461308" duration="23317000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Comments to model.py">
       <created>1672802383659</created>
@@ -203,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673036094823</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Password Reset with Token.&#10;Sensitive IDs using environment variables">
+      <created>1673113431778</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673113431778</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,7 +253,8 @@
     <MESSAGE value="Post Pagination and sorting" />
     <MESSAGE value="Added User Page by Post Author" />
     <MESSAGE value="UI fix: Justify right" />
-    <option name="LAST_COMMIT_MESSAGE" value="UI fix: Justify right" />
+    <MESSAGE value="Password Reset with Token.&#10;Sensitive IDs using environment variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Password Reset with Token.&#10;Sensitive IDs using environment variables" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -248,7 +268,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Flaskblog$Flaskblog.coverage" NAME="Flaskblog Coverage Results" MODIFIED="1672947901361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Flaskblog$Flaskblog.coverage" NAME="Flaskblog Coverage Results" MODIFIED="1673192332205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Flaskblog$models.coverage" NAME="models Coverage Results" MODIFIED="1672802213655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flaskblog" />
     <SUITE FILE_PATH="coverage/Flaskblog$Flask__flaskblog___init___py_.coverage" NAME="Flask (flaskblog/__init__.py) Coverage Results" MODIFIED="1672802222436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Flaskblog$run.coverage" NAME="run Coverage Results" MODIFIED="1672857609202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

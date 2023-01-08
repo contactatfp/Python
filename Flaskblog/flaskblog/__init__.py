@@ -14,9 +14,8 @@ app.app_context().push()
 
 bcrypt = Bcrypt(app)
 login_manager = LoginManager(app)
-login_manager.login_view = 'login'
+login_manager.login_view = 'users. login'
 login_manager.login_message_category = 'info'
-
 
 app.config['MAIL_SERVER'] = 'smtp-relay.gmail.com'
 app.config['MAIL_PORT'] = 587
@@ -25,6 +24,11 @@ app.config['MAIL_USERNAME'] = environ.get('EMAIL_USER')
 app.config['MAIL_PASSWORD'] = environ.get('EMAIL_PASS')
 mail = Mail(app)
 
+from flaskblog.users.routes import users
+app.register_blueprint(users)
 
+from flaskblog.posts.routes import posts
+app.register_blueprint(posts)
 
-from flaskblog import routes
+from flaskblog.main.routes import main
+app.register_blueprint(main)
